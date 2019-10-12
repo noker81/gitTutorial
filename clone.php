@@ -2,8 +2,8 @@
 
 #тестируем...
 git status
-get add файл
-get commit -m "add файл"
+git add файл
+git commit -m "add файл"
 git pull
 
 несколько файлов
