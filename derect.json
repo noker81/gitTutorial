@@ -1,0 +1,30 @@
+{
+"result": {
+		"cегодня": {[
+				{ 
+				"speechPart": "adverb",
+				"sentenceRole": "subject",
+				}
+		]},
+		"неплохая": {[
+				{ 
+				"speechPart": "noun",
+				"sentenceRole": "subject",
+				},
+				{ 
+				"speechPart": "verb",
+				"sentenceRole": "predicate",
+				}
+		]},
+		"погода": {[
+			{ 
+			"speechPart": "noun",
+			"sentenceRole": "subject",
+			},
+			{ 
+			"speechPart": "verb",
+			"sentenceRole": "predicate",
+			}
+		]}
+	}
+}
